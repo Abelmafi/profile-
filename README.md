@@ -27,3 +27,19 @@ I'm a passionate [Your Role] based in [Your Location], with a strong focus on [Y
   "cloud": ["AWS", "Google Cloud", "Azure"],
   "tools": ["VS Code", "Git", "Postman"]
 }
+```
+## Connect with Me
+<div align="center">
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://your-website-or-blog.com">
+    <img src="https://img.shields.io/badge/Website-%23117AC9?style=for-the-badge&logo=web&logoColor=white" alt="Website">
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/your-twitter-handle">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+</div>
