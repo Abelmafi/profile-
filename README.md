@@ -43,3 +43,24 @@ I'm a passionate [Your Role] based in [Your Location], with a strong focus on [Y
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
 </div>
+
+## GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats">
+</div>
+
+## Featured Projects
+
+- 🚀 Project 1: A brief description of the project.
+- 🚀 Project 2: A brief description of the project.
+
+Feel free to explore my repositories for more exciting projects!
+Let's Connect
+
+I'm always open to new collaborations and discussions. Reach out and let's create something amazing together! 😄
+
+css
+
+
+Replace the placeholders `[Your Name]`, `[Your Role]`, `[Your Location]`, and others with your actual information. You can also customize the tech stack section, connect with me section, and add more featured projects to make your GitHub profile README more advanced and attractive.
+
